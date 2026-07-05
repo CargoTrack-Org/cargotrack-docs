@@ -90,7 +90,3 @@ See [architecture/system-overview.md](architecture/system-overview.md) for the f
 | [runbooks/](runbooks/) | Local dev setup, deployment process, incident response, current known issues |
 | [adr/](adr/) | Architecture Decision Records — why key technical decisions were made |
 | [presentations/](presentations/) | Slide deck — includes architecture diagrams and product screenshots |
-
-## Conventions
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how documentation and presentations should be added to this repo.
