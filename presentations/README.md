@@ -10,4 +10,4 @@ Slide decks related to CargoTrack. Currently one deck, covering the project end 
 
 | File | Covers |
 |---|---|
-| _(add the deck here once uploaded)_ | Architecture diagrams, product screenshots, project walkthrough |
+| [2026-06-29-project-overview.pptx](2026-06-29-project-overview.pptx) | Architecture diagrams, product screenshots, project walkthrough |
